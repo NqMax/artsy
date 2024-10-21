@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { HeaderNavigationMenu } from "@/components/header/header-nav-menu";
-import { ShoppingCart, Heart } from "lucide-react";
 import { SearchBar } from "@/components/header/search-bar";
+import { ShoppingCart, Heart } from "lucide-react";
 
 export function Header() {
   return (
